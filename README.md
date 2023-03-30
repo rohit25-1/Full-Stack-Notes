@@ -6,17 +6,17 @@ Full Stack Notes App
 
 ## Screenshots
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot1.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot1.jpeg)
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot2.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot2.jpeg)
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot3.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot3.jpeg)
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot4.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot4.jpeg)
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot5.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot5.jpeg)
 
-![](https://github.com/rohit25-1/iOS-Projects/blob/master/NotesApp/Screenshots/screenshot6.jpeg)
+![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot6.jpeg)
 
 
 # How to build

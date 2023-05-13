@@ -4,6 +4,34 @@ Full Stack Notes App
 ![License](https://img.shields.io/github/license/JakeLin/SwiftWeather.svg?style=flat)
 
 
+
+# Requirements
+
+* Xcode
+* Node
+* MongoDB
+
+# How to build
+
+1) Clone the repository
+
+2) Go to directory
+
+```bash
+$ cd NotesApp
+```
+
+3) Open in Xcode
+
+4) Start The Server From Notes-API Folder
+
+```bash
+node index.js
+```
+
+5) Compile and run the app in your simulator
+
+
 ## Screenshots
 
 ![](https://github.com/rohit25-1/Full-Stack-Notes/blob/master/Screenshots/screenshot1.jpeg)
@@ -44,8 +72,3 @@ node index.js
 5) Compile and run the app in your simulator
 
 
-# Requirements
-
-* Xcode
-* Node
-* MongoDB
